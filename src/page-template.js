@@ -1,7 +1,7 @@
 
    
 
-module.exports = generatePage => { 
+module.exports = templateData => { 
   console.log(templateData);
     return `
     <!DOCTYPE html>
